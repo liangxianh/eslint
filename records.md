@@ -14,4 +14,4 @@
     ],
 ```
 
-参考[]([https://eslint.org/docs/latest/rules/linebreak-style](https://eslint.vuejs.org/rules/max-attributes-per-line.html))
+参考[eslint vue/max-attributes-per-line]([https://eslint.org/docs/latest/rules/linebreak-style](https://eslint.vuejs.org/rules/max-attributes-per-line.html))
